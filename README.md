@@ -163,7 +163,7 @@ This part is in the dashboard
 
 ### I. Overview
 
-
+<img width="1332" height="744" alt="image" src="https://github.com/user-attachments/assets/b910ee6d-1357-4e93-887d-204e8d628bc6" />
 
 ### 📌 Key Findings:
 
@@ -207,7 +207,7 @@ This part is in the dashboard
 
 ### II. Category and Market Analysis
 
-
+<img width="1329" height="743" alt="image" src="https://github.com/user-attachments/assets/fe67d5cf-4574-4289-a793-9e886b2b21f3" />
 
 ### 📌 Key Findings:
 
@@ -257,7 +257,7 @@ This part is in the dashboard
      
 ### III. Returned Product Analysis
 
-
+<img width="1332" height="741" alt="image" src="https://github.com/user-attachments/assets/443f14d9-0296-4dae-8757-b101843683c8" />
 
 ### 📌 Key Findings:
 
