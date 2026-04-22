@@ -27,7 +27,7 @@ The goal is to provide senior managers and stakeholders with **data-driven insig
 
 - **Understand current business performance**
  
-- ** market expansion strategies**
+- **Market expansion strategies**
 
 - **Identify strategic products for growth**
 
