@@ -1,4 +1,4 @@
-# 🌍 Global SuperStore Sales and Market Analysis Using Power BI
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/34d64cb9-fe77-4fea-bf5d-b534afbed9a2" /># 🌍 Global SuperStore Sales and Market Analysis Using Power BI
 
 
 **Author:** Hà Minh Khuê
@@ -142,15 +142,25 @@ The dataset consists of **three tables**:
 
 ### 1️⃣ Empathize
 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/aa99b89e-68e3-40d5-aeb5-af9a021b61bc" />
 
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/bf0b1046-5a85-4021-a6ac-a41f2c9651c3" />
 
 
 ### 2️⃣ Define point of view 
 
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/02b7a307-941e-4f5c-8c26-dc0d23df5555" />
+
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/6b2e95ee-627e-431e-915a-6a122ae2abb7" />
+
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/c9c6b5b4-a45b-417c-bd09-6a4369006da1" />
 
 
 ### 3️⃣ Ideate
 
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/86cc0497-ee27-403c-824d-a1f4edde852c" />
+
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/0f26eb08-c662-4df4-8c49-79bb6a08810f" />
 
 
 ### 4️⃣ Prototype and review
