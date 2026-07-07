@@ -1,4 +1,7 @@
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/34d64cb9-fe77-4fea-bf5d-b534afbed9a2" /># 🌍 Global SuperStore Sales and Market Analysis Using Power BI
+<img width="1920" height="1080" alt="Stage 1 Empathize - 5W1h" src="https://github.com/user-attachments/assets/ef2cbbae-587b-4900-b641-4d9dbeebd032" />
+
+ 
+ 🌍 Global SuperStore Sales and Market Analysis Using Power BI
 
 
 **Author:** Hà Minh Khuê
